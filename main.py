@@ -4,3 +4,5 @@ liczba_wartosci = len(wartosci_widok) # Zwróci 3 (ilość elementów w widoku)
 print(liczba_wartosci)
 
 #edycja zdalna test
+
+a + b = result

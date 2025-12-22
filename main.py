@@ -6,3 +6,5 @@ print(liczba_wartosci)
 #edycja zdalna test
 
 a + b = result
+
+print(result)

@@ -8,3 +8,5 @@ print(liczba_wartosci)
 a + b = result
 
 print(result)
+
+print('android')
